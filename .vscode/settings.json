@@ -1,5 +1,5 @@
 {
-	"editor.formatOnSave": true,
-	"editor.defaultFormatter": "biomejs.biome",
-	"biome.lsp.bin": "frontend/node_modules/@biomejs/cli-darwin-arm64/biome"
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "biomejs.biome",
+  "biome.lsp.bin": "frontend/node_modules/@biomejs/cli-darwin-arm64/biome"
 }
