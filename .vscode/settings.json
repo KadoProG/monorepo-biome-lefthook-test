@@ -1,5 +1,8 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "biomejs.biome",
-  "biome.lsp.bin": "frontend/node_modules/@biomejs/cli-darwin-arm64/biome"
+  "biome.lsp.bin": "frontend/node_modules/@biomejs/cli-darwin-arm64/biome",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
