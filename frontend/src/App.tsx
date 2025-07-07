@@ -1,10 +1,8 @@
-import "./App.css";
-
 function App() {
   return (
-    <>
-      <p>モノレポ！</p>
-    </>
+    <div>
+      <p className="text-5xl">モノレポ！</p>
+    </div>
   );
 }
 
